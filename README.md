@@ -1,3 +1,10 @@
+# Customizations for Yale QC
+
+- Params.hidden now takes "all" or "home" depending on the scope of the site users wish to hide the post from
+  - "all": hide post from all post lists
+  - "home": hide post from home page post list
+  - This is probably not the best solution, but it's a quick fix for the functionality we needed..
+
 ![Stack](https://i.imgur.com/cCiHOGS.jpg)
 # Hugo Theme Stack
 
