@@ -16,6 +16,9 @@
 [widgetTagCloudTitle]
     other = "Tags"
 
+[widgetCalendarTitle]
+    other = "Calendar"
+
 [notFoundTitle]
     other = "Not Found"
 
